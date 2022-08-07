@@ -1,0 +1,29 @@
+#body{
+    background-color: rgb(255,225,122);
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.eyes{
+    position: relative;
+    top: 30px;
+    display: flex;
+}
+
+.eye{
+    background-color: white;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin: 25px;
+
+}
+.pupils{
+    background-color: black;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    
+
+}
